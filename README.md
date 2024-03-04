@@ -1,6 +1,13 @@
 # Machine Learning by Coursera
-* [Google IT Automation with Python](https://github.com/Fahrililham/Coursera/edit/Machine-Learning/README.md#google-it-automation-with-python)
+* [Google IT Automation]()
+* [Google Data Analytics]()
+* [Mathematics for Machine Learning]()
+* [Machine Learning]()
+* [DeepLearning.AI TensorFlow Developer]()
+* [Deep Learning Specialization]()
+* [TensorFlow: Data and Deployment]()
 ---
+## Google IT Automation with Python
 ### Crash Course on Python
 ### Using Python to Interact with the Operating System
 ### Introduction to Git and GitHub

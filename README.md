@@ -1,11 +1,11 @@
 # Machine Learning by Coursera
-* [Google IT Automation](https://github.com/Fahrililham/Coursera/tree/Machine-Learning?tab=readme-ov-file#google-it-automation-with-python)
-* [Google Data Analytics]()
-* [Mathematics for Machine Learning]()
-* [Machine Learning]()
-* [DeepLearning.AI TensorFlow Developer]()
-* [Deep Learning Specialization]()
-* [TensorFlow: Data and Deployment]()
+* [Google IT Automation with Python](https://github.com/Fahrililham/Coursera/tree/Machine-Learning?tab=readme-ov-file#google-it-automation-with-python)
+* [Google Data Analytics](https://github.com/Fahrililham/Coursera/tree/Machine-Learning?tab=readme-ov-file#google-data-analytics)
+* [Mathematics for Machine Learning](https://github.com/Fahrililham/Coursera/tree/Machine-Learning?tab=readme-ov-file#mathematics-for-machine-learning)
+* [Machine Learning](https://github.com/Fahrililham/Coursera/tree/Machine-Learning?tab=readme-ov-file#machine-learning)
+* [DeepLearning.AI TensorFlow Developer](https://github.com/Fahrililham/Coursera/tree/Machine-Learning?tab=readme-ov-file#deeplearning.ai-tensorflow-developer)
+* [Deep Learning Specialization](https://github.com/Fahrililham/Coursera/tree/Machine-Learning?tab=readme-ov-file#deep-learning-specialization)
+* [TensorFlow: Data and Deployment](https://github.com/Fahrililham/Coursera/tree/Machine-Learning?tab=readme-ov-file#tensorflow:-data-and-deployment)
 ---
 ## Google IT Automation with Python
 ### Crash Course on Python
